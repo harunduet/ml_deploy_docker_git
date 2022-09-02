@@ -1,0 +1,7 @@
+# data & model
+/data
+/models
+# notebook checkpoints
+.ipynb_check*/
+
+# virtual environment
